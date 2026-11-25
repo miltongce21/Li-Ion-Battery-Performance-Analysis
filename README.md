@@ -80,14 +80,6 @@ The weights (0.5, 0.3, 0.2) are domain-knowledge based assumptions: formation en
 - seaborn
 - scikit-learn
 
-## Installation
-
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-pip install pandas matplotlib seaborn scikit-learn
-```
-
 ## Usage
 
 1. Place `lithium-ion batteries.csv` in the project folder.
